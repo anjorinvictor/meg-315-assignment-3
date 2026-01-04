@@ -1,0 +1,7 @@
+Streamlit
+FastAPI
+CoolProp
+SQLAlchemy
+Uvicorn
+Pandas
+Matplotlib
